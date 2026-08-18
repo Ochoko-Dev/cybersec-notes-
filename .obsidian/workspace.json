@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bc3cad535e0a35d8",
+        "id": "0707a0bd50679c81",
         "type": "tabs",
         "children": [
           {
-            "id": "4f6907d6b99f878b",
+            "id": "83dacd1137c04b17",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "03-Concepts/Network Topologies.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Network Topologies"
             }
           }
         ]
@@ -181,9 +185,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "4f6907d6b99f878b",
+  "active": "83dacd1137c04b17",
   "lastOpenFiles": [
+    "Screenshot from 2026-08-18 11-05-08.png",
+    "Screenshot from 2026-08-18 11-04-24.png",
+    "Screenshot from 2026-08-18 11-03-53.png",
+    "Screenshot from 2026-08-18 11-02-48.png",
+    "Screenshot from 2026-08-18 10-56-22.png",
+    "Screenshot from 2026-08-18 10-55-32.png",
+    "Screenshot from 2026-08-18 10-54-31.png",
+    "Full-Data-Flow-Example.md",
+    "Networking-MOC.md",
+    "03-Concepts/Network Topologies.md",
+    "01-MOCs/Networking MOC.md",
     "03-Concepts/Full Data Flow Example (Wireless client- Web server).md",
+    "Networking MOC.md",
+    "05-Journal/HTB Day 04- Introduction to Networking.md",
     "03-Concepts/Network security Fundamentals.md",
     "Network Security Fundamentals.md",
     "03-Concepts/Wireless Networks.md",
@@ -193,32 +210,19 @@
     "Screenshot from 2026-08-17 09-58-15 1.png",
     "Screenshot from 2026-08-17 09-58-15.png",
     "03-Concepts/DNS Resolution Process.md",
-    "Full-Data-Flow-Example.md",
     "03-Concepts/Network Address Translation.md",
     "03-Concepts/Dynamic Host Configuration Protocol.md",
     "05-Journal/HTB Day 03 — Network Foundations (Part 2).md",
     "260817095818.png` into `Asse.md",
-    "01-MOCs/Networking MOC.md",
     "03-Concepts/Advanced Persistent Threats (APT).md",
     "05-Journal/HTB Day 2- Network Foundations.md",
     "03-Concepts/How web browsing works.md",
     "Screenshot from 2026-08-13 16-36-05.png",
     "Screenshot from 2026-08-13 17-21-01.png",
-    "Screenshot from 2026-08-13 17-21-01 1.png",
-    "Screenshot from 2026-08-13 17-37-10.png",
-    "Screenshot from 2026-08-13 17-37-10 1.png",
-    "Screenshot from 2026-08-13 17-37-10 2.png",
-    "Screenshot from 2026-08-13 16-30-03.png",
     "03-Concepts/Disaster Recovery and business continuity.md",
     "03-Concepts/Threat Actors.md",
     "03-Concepts/Social engineering.md",
     "03-Concepts/Ransomware.md",
-    "03-Concepts/DDoS Attacks.md",
-    "03-Concepts/Domains of Information Security.md",
-    "05-Journal/HTB Day 1.md",
-    "05-Journal/Screenshot from 2026-08-12 11-34-06.png",
-    "Untitled 1.md",
-    "Welcome.md",
     "05-Journal",
     "04-Cheatsheets",
     "03-Concepts",

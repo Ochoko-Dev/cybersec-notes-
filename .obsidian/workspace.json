@@ -4,24 +4,95 @@
     "type": "split",
     "children": [
       {
-        "id": "0707a0bd50679c81",
+        "id": "612ef6b3f90a5047",
         "type": "tabs",
         "children": [
           {
-            "id": "83dacd1137c04b17",
+            "id": "b45cb36cfb16f2a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Concepts/Network Topologies.md",
+                "file": "03-Concepts/wifi-security.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Network Topologies"
+              "title": "wifi-security"
+            }
+          },
+          {
+            "id": "6e147b02f2352de7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03-Concepts/ipsec.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ipsec"
+            }
+          },
+          {
+            "id": "064a35c6aedc2092",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03-Concepts/cryptography-basics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "cryptography-basics"
+            }
+          },
+          {
+            "id": "26ccaf2146f188b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04-Cheatsheets/networking protocols.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "networking protocols"
+            }
+          },
+          {
+            "id": "6da4b9db69bf97c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04-Cheatsheets/authentication protocols.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "authentication protocols"
+            }
+          },
+          {
+            "id": "5005199b1dba1929",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTB Day 05-completed introduction to networks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HTB Day 05-completed introduction to networks"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -185,44 +256,44 @@
       "bases:Create new base": false
     }
   },
-  "active": "83dacd1137c04b17",
+  "active": "5005199b1dba1929",
   "lastOpenFiles": [
+    "04-Cheatsheets/authentication protocols.md",
+    "HTB Day 05-completed introduction to networks.md",
+    "04-Cheatsheets/networking protocols.md",
+    "03-Concepts/cryptography-basics.md",
+    "03-Concepts/ipsec.md",
+    "03-Concepts/wifi-security.md",
+    "03-Concepts/packet-encapsulation.md",
+    "03-Concepts/ip-addressing-subnetting.md",
+    "Screenshot from 2026-08-18 11-03-53.png",
+    "03-Concepts/proxies.md",
+    "Screenshot from 2026-08-18 10-56-22.png",
+    "Screenshot from 2026-08-17 09-58-15 1.png",
+    "05-Journal/HTB Day 03 — Network Foundations (Part 2).md",
+    "05-Journal/HTB Day 04- Introduction to Networking.md",
+    "URL-vs-FQDN.md",
+    "Screenshot from 2026-08-17 09-58-15.png",
+    "Networking-MOC.md",
+    "Networking MOC.md",
+    "Screenshot from 2026-08-18 10-55-32.png",
+    "03-Concepts/Wireless Networks.md",
+    "03-Concepts/Threat Actors.md",
+    "03-Concepts/Software-Defined Architecture (SDN).md",
+    "03-Concepts/Dynamic Host Configuration Protocol.md",
+    "03-Concepts/DNS Resolution Process.md",
+    "03-Concepts/Disaster Recovery and business continuity.md",
+    "03-Concepts/DDoS Attacks.md",
+    "03-Concepts/Cloud Architecture.md",
+    "03-Concepts/Advanced Persistent Threats (APT).md",
+    "01-MOCs/Networking MOC.md",
+    "03-Concepts/Network Topologies.md",
     "Screenshot from 2026-08-18 11-05-08.png",
     "Screenshot from 2026-08-18 11-04-24.png",
-    "Screenshot from 2026-08-18 11-03-53.png",
     "Screenshot from 2026-08-18 11-02-48.png",
-    "Screenshot from 2026-08-18 10-56-22.png",
-    "Screenshot from 2026-08-18 10-55-32.png",
     "Screenshot from 2026-08-18 10-54-31.png",
     "Full-Data-Flow-Example.md",
-    "Networking-MOC.md",
-    "03-Concepts/Network Topologies.md",
-    "01-MOCs/Networking MOC.md",
-    "03-Concepts/Full Data Flow Example (Wireless client- Web server).md",
-    "Networking MOC.md",
-    "05-Journal/HTB Day 04- Introduction to Networking.md",
-    "03-Concepts/Network security Fundamentals.md",
-    "Network Security Fundamentals.md",
-    "03-Concepts/Wireless Networks.md",
-    "03-Concepts/Software-Defined Architecture (SDN).md",
-    "03-Concepts/Cloud Architecture.md",
-    "03-Concepts/Internet Architecture Models.md",
-    "Screenshot from 2026-08-17 09-58-15 1.png",
-    "Screenshot from 2026-08-17 09-58-15.png",
-    "03-Concepts/DNS Resolution Process.md",
-    "03-Concepts/Network Address Translation.md",
-    "03-Concepts/Dynamic Host Configuration Protocol.md",
-    "05-Journal/HTB Day 03 — Network Foundations (Part 2).md",
-    "260817095818.png` into `Asse.md",
-    "03-Concepts/Advanced Persistent Threats (APT).md",
-    "05-Journal/HTB Day 2- Network Foundations.md",
-    "03-Concepts/How web browsing works.md",
     "Screenshot from 2026-08-13 16-36-05.png",
-    "Screenshot from 2026-08-13 17-21-01.png",
-    "03-Concepts/Disaster Recovery and business continuity.md",
-    "03-Concepts/Threat Actors.md",
-    "03-Concepts/Social engineering.md",
-    "03-Concepts/Ransomware.md",
     "05-Journal",
     "04-Cheatsheets",
     "03-Concepts",

@@ -4,7 +4,7 @@ Daily log of my path into cybersecurity — labs, notes, and writeups as I work 
 
 ## About Me
 
-Final-year IT student at Dedan Kimathi University of Technology (graduating Dec 2026), transitioning into cybersecurity. Also run a small freelance web development agency on the side — building custom websites and POS/inventory systems for local SMEs in Nyeri, Kenya.
+Final-year IT student at Dedan Kimathi University of Technology, transitioning into cybersecurity(SOC Analyst).
 
 Currently focused on:
 - Working through [Hack The Box's Junior Cybersecurity Analyst path](https://academy.hackthebox.com/)

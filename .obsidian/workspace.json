@@ -4,95 +4,109 @@
     "type": "split",
     "children": [
       {
-        "id": "612ef6b3f90a5047",
+        "id": "ca31efbd599899fa",
         "type": "tabs",
         "children": [
           {
-            "id": "b45cb36cfb16f2a4",
+            "id": "9b273e035b3eb78a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Concepts/wifi-security.md",
+                "file": "03-Concepts/SIEM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "wifi-security"
+              "title": "SIEM"
             }
           },
           {
-            "id": "6e147b02f2352de7",
+            "id": "477fa904558cd058",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Concepts/ipsec.md",
+                "file": "03-Concepts/Log management.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ipsec"
+              "title": "Log management"
             }
           },
           {
-            "id": "064a35c6aedc2092",
+            "id": "2b074305f9c2a518",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Concepts/cryptography-basics.md",
+                "file": "03-Concepts/EDR.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cryptography-basics"
+              "title": "EDR"
             }
           },
           {
-            "id": "26ccaf2146f188b8",
+            "id": "9ecf374d9b3f27f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-Cheatsheets/networking protocols.md",
+                "file": "03-Concepts/SOAR.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "networking protocols"
+              "title": "SOAR"
             }
           },
           {
-            "id": "6da4b9db69bf97c0",
+            "id": "2311f8a666771ebc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-Cheatsheets/authentication protocols.md",
+                "file": "03-Concepts/Threat Intelligence.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "authentication protocols"
+              "title": "Threat Intelligence"
             }
           },
           {
-            "id": "5005199b1dba1929",
+            "id": "4403661150573632",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB Day 05-completed introduction to networks.md",
+                "file": "04-Cheatsheets/SOC acronyms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HTB Day 05-completed introduction to networks"
+              "title": "SOC acronyms"
+            }
+          },
+          {
+            "id": "ddfdece3a25f770c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05-Journal/Day 1-LetsDefend.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Day 1-LetsDefend"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -256,14 +270,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "5005199b1dba1929",
+  "active": "ddfdece3a25f770c",
   "lastOpenFiles": [
+    "04-Cheatsheets/SOC acronyms.md",
+    "05-Journal/Day 1-LetsDefend.md",
+    "03-Concepts/Threat Intelligence.md",
+    "03-Concepts/SOAR.md",
+    "03-Concepts/EDR.md",
+    "03-Concepts/Log management.md",
+    "03-Concepts/SIEM.md",
+    "03-Concepts/wifi-security.md",
+    "03-Concepts/ipsec.md",
+    "03-Concepts/cryptography-basics.md",
+    "04-Cheatsheets/networking protocols.md",
     "04-Cheatsheets/authentication protocols.md",
     "HTB Day 05-completed introduction to networks.md",
-    "04-Cheatsheets/networking protocols.md",
-    "03-Concepts/cryptography-basics.md",
-    "03-Concepts/ipsec.md",
-    "03-Concepts/wifi-security.md",
+    "03-Concepts/soc overview.md",
     "03-Concepts/packet-encapsulation.md",
     "03-Concepts/ip-addressing-subnetting.md",
     "Screenshot from 2026-08-18 11-03-53.png",
@@ -281,18 +303,10 @@
     "03-Concepts/Threat Actors.md",
     "03-Concepts/Software-Defined Architecture (SDN).md",
     "03-Concepts/Dynamic Host Configuration Protocol.md",
-    "03-Concepts/DNS Resolution Process.md",
-    "03-Concepts/Disaster Recovery and business continuity.md",
-    "03-Concepts/DDoS Attacks.md",
-    "03-Concepts/Cloud Architecture.md",
-    "03-Concepts/Advanced Persistent Threats (APT).md",
-    "01-MOCs/Networking MOC.md",
-    "03-Concepts/Network Topologies.md",
     "Screenshot from 2026-08-18 11-05-08.png",
     "Screenshot from 2026-08-18 11-04-24.png",
     "Screenshot from 2026-08-18 11-02-48.png",
     "Screenshot from 2026-08-18 10-54-31.png",
-    "Full-Data-Flow-Example.md",
     "Screenshot from 2026-08-13 16-36-05.png",
     "05-Journal",
     "04-Cheatsheets",

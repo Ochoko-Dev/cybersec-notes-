@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "918a9ffb5ec6a816",
+        "id": "5efd845520d53dcd",
         "type": "tabs",
         "children": [
           {
-            "id": "7c43427fc48434e8",
+            "id": "154ec2ee8ac08e64",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "03-Concepts/Bash Scripting Basics- Intro Notes.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Bash Scripting Basics- Intro Notes"
             }
           }
         ]
@@ -181,8 +185,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "7c43427fc48434e8",
+  "active": "154ec2ee8ac08e64",
   "lastOpenFiles": [
+    "03-Concepts/Bash Scripting Basics- Intro Notes.md",
+    "05-Journal/Screenshot from 2026-08-12 11-34-06.png",
+    "05-Journal/HTB Day 05-completed introduction to networks.md",
+    "Full-Data-Flow-Example.md",
+    "README.md",
+    "Screenshot from 2026-08-17 09-58-15 1.png",
+    "Screenshot from 2026-08-17 09-58-15.png",
+    "Screenshot from 2026-08-18 10-54-31.png",
+    "Screenshot from 2026-08-18 10-55-32.png",
+    "Screenshot from 2026-08-18 10-56-22.png",
+    "Screenshot from 2026-08-18 11-02-48.png",
+    "Screenshot from 2026-08-18 11-03-53.png",
+    "Screenshot from 2026-08-18 11-04-24.png",
+    "Screenshot from 2026-08-18 11-05-08.png",
+    "Untitled 1.md",
+    "URL-vs-FQDN.md",
     "03-Concepts/network-configuration.md",
     "03-Concepts/network-services.md",
     "03-Concepts/task-scheduling.md",
@@ -202,23 +222,6 @@
     "04-Cheatsheets/cron-schedule-fields.md",
     "task scheduling.md",
     "03-Concepts/text-filtering.md",
-    "03-Concepts/regular-expressions.md",
-    "03-Concepts/permissions.md",
-    "04-Cheatsheets/linux-filtering-commands.md",
-    "04-Cheatsheets/regex-operators.md",
-    "Untitled 1.md",
-    "05-Journal/HTB Day 07.md",
-    "03-Concepts/shell-intro.md",
-    "Screenshot from 2026-08-18 11-03-53.png",
-    "Screenshot from 2026-08-18 10-56-22.png",
-    "Screenshot from 2026-08-17 09-58-15 1.png",
-    "Screenshot from 2026-08-17 09-58-15.png",
-    "Screenshot from 2026-08-18 10-55-32.png",
-    "Screenshot from 2026-08-18 11-05-08.png",
-    "Screenshot from 2026-08-18 11-04-24.png",
-    "Screenshot from 2026-08-18 11-02-48.png",
-    "Screenshot from 2026-08-18 10-54-31.png",
-    "Screenshot from 2026-08-13 16-36-05.png",
     "05-Journal",
     "04-Cheatsheets",
     "03-Concepts",

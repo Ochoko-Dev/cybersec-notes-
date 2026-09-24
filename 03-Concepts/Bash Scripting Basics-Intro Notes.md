@@ -161,3 +161,76 @@ You are looking good today leo
 You have the best eyes i have ever seen leo
 you are currently logged in as leone and you are in the directory /home/leone. Also today is: Tue Sep 22 03:55:15 AM EDT 2026
 ```
+
+---
+
+# Day 2
+
+## Combining read prompts
+Script `getrichquick.sh`:
+
+```bash
+#!/bin/bash
+echo "what is your name?"
+read name
+echo "how old are you?"
+read age
+echo "hello $name, you are $age years old"
+```
+
+Prompts for name, then age, then prints a greeting combining both — e.g. "hello leone, you are 21 years old".
+
+## $RANDOM
+`$RANDOM` is a built-in variable that generates a random number between 0 and 32767 each time it's referenced.
+
+## Custom variables and export
+```bash
+twitter="elon musk"
+echo $twitter
+```
+Prints "elon musk" — but as-is, this variable can't be used by child processes.
+
+To make it available to child processes, convert it into an **environment variable**:
+
+```bash
+export twitter
+```
+
+However, this doesn't persist — closing the terminal and reopening it, `echo $twitter` prints nothing, because the variable was never made permanent.
+
+## Making variables permanent
+Quick tip: in Linux, a file starting with `.` (dot) is hidden.
+
+To persist the variable, edit `.bashrc`:
+
+```bash
+nano .bashrc
+```
+
+Add:
+```bash
+export twitter="Elon Musk"
+```
+
+Now the variable survives logging out and back in.
+
+## Arithmetic expressions
+```bash
+echo $(( 2+5 ))
+```
+Prints `7`. Subtraction, multiplication, and division work the same way — but bash arithmetic doesn't support floating-point numbers.
+
+Using `$RANDOM` with modulo to get a bounded range:
+
+```bash
+echo $(( $RANDOM % 10 ))
+```
+Generates a random number between 0–9 each time (modulo 10 caps the range).
+
+## Putting it together: getrichquick.sh
+Add a new variable combining `$RANDOM`, modulo, and the earlier `$age` variable:
+
+```bash
+getrich=$(( ($RANDOM % 15) + $age ))
+echo "$name, you will become a millionaire when you are $getrich years old"
+```
